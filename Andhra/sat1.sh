@@ -7,4 +7,12 @@ six
 seven
 eight
 nine
+ten
+eleven
+twele
+thirteen
+fourteen
+fifteen
+sixteen
+seventeen
 
