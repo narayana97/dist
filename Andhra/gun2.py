@@ -8,3 +8,9 @@ seben
 acht
 neun
 zehn
+elf
+zwolf
+dreizehn
+vierzehn
+funfzehn
+
