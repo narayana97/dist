@@ -8,6 +8,3 @@ seven
 eight
 nine
 ten
-eleven
-tweleve
-thirteen
